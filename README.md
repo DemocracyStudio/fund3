@@ -6,6 +6,6 @@ The next steps of development aim to augment the platform with machine learning,
 
 While diverse embezzlement affairs and breach of trust were brought to court in the past years, suspicion arised toward charity organization and impacted donators' confidence. Fund3 will bring back confidence and offer an unprecedented way for donators to engage closely with the causes they want to support.
 
-The [white paper](https://docs.google.com/document/d/1LjFNUEf8vazJJ3nigIzPCSwrirRMwqjuVAeTI8rM7Kc/edit?usp=sharing) provides more details about the technical functioning of the app and use cases.
-
 A [video pitch](https://youtube.com) has been recorded and published on YouTube. 
+
+The [white paper](https://docs.google.com/document/d/1LjFNUEf8vazJJ3nigIzPCSwrirRMwqjuVAeTI8rM7Kc/edit?usp=sharing) provides more details about the technical functioning of the app and use cases.
