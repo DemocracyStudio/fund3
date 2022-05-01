@@ -1,4 +1,4 @@
-# fund3
+# Fund3
 Fund3 is an NFT marketplace adding transparency and security to charity funding. The decentralized architecture offered by the web3 technology allows donators to allocate their contribution to the projects they cherish the most in the organization of their choice, track their money from the donation to the final beneficiary, and avoid misappropriation or scam. 
 
 Fund3 is developed in Python, using Brownie framework to write and test smart contracts on Ethereum and Django framework as for the web app. 
