@@ -7,4 +7,4 @@ While diverse embezzlement affairs and breach of trust were brought to court in 
 
 A [video pitch](https://youtube.com) has been recorded and published on YouTube. 
 
-A [document](https://docs.google.com/document/d/1LjFNUEf8vazJJ3nigIzPCSwrirRMwqjuVAeTI8rM7Kc/edit?usp=sharing) provides more details about the technical functioning of the dapp and use cases.
+A [white paper](https://docs.google.com/document/d/1LjFNUEf8vazJJ3nigIzPCSwrirRMwqjuVAeTI8rM7Kc/edit?usp=sharing) provides more details about the technical functioning of the dapp and use cases.
