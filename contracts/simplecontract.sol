@@ -1,7 +1,7 @@
-# create smart contract simplecontract.sol file
+#create smart contract simplecontract.sol file#
 pragma solidity ^0.8.0;
 
-contract simplecontract {
+contract Simplecontract {
   string greeting;
 
   constructor(string memory _greeting) {
